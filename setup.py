@@ -20,7 +20,7 @@ setup(
     keywords='xmpp chat messaging',
     author='JC Brand',
     author_email='jc@opkode.com',
-    url='https://github.com/ShuffleBox/collective.xmpp.chat',
+    url='https://github.com/collective/collective.xmpp.chat',
     license='GPL',
     packages=find_packages('src', exclude=['ez_setup']),
     package_dir={'': 'src'},
